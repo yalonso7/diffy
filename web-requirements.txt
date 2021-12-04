@@ -19,10 +19,10 @@ dogpile.cache==0.7.1
 flask-restful==0.3.7
 flask-rq2==18.3
 flask==1.0.2
-gunicorn==19.9.0
+gunicorn==19.10.0
 inflection==0.3.1
 itsdangerous==1.1.0       # via flask
-jinja2==2.10.1            # via flask
+jinja2==2.11.3            # via flask
 jmespath==0.9.4
 jsondiff==1.1.2
 jsonpickle==1.1
@@ -34,7 +34,7 @@ ordered-set==3.1
 pyrsistent==0.14.11
 python-dateutil==2.8.0
 pytz==2019.1              # via flask-restful
-pyyaml==5.1
+pyyaml==5.4
 rapidfuzz==0.2.1
 raven[flask]==6.10.0
 redis==3.2.1              # via flask-rq2, rq
@@ -46,5 +46,5 @@ simplejson==3.16.0
 six==1.12.0
 swag-client==0.4.6
 tabulate==0.8.3
-urllib3==1.24.1
+urllib3==1.26.5
 werkzeug==0.15.3          # via flask
