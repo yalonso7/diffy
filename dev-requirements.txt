@@ -52,7 +52,7 @@ imagesize==1.1.0          # via sphinx
 importlib-metadata==0.9   # via pre-commit
 inflection==0.3.1
 itsdangerous==1.1.0
-jinja2==2.10.1
+jinja2==2.11.3
 jmespath==0.9.4
 jsondiff==1.1.2
 jsonpickle==1.1
