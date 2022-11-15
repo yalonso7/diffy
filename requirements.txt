@@ -31,3 +31,4 @@ six==1.12.0               # via jsonschema, pyrsistent, python-dateutil, retryin
 swag-client==0.4.6
 tabulate==0.8.3
 urllib3==1.24.1           # via botocore
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
