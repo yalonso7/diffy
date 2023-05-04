@@ -41,7 +41,7 @@ entrypoints==0.3          # via flake8
 flake8==3.7.7             # via pre-commit-hooks
 flask-restful==0.3.7
 flask-rq2==18.3
-flask==1.0.2
+flask==2.2.5
 future==0.17.1            # via python-jose
 gitdb2==2.0.5             # via gitpython
 gitpython==2.1.11         # via bandit
