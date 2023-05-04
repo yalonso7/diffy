@@ -18,7 +18,7 @@ docutils==0.14
 dogpile.cache==0.7.1
 flask-restful==0.3.7
 flask-rq2==18.3
-flask==1.0.2
+flask==2.2.5
 gunicorn==19.9.0
 inflection==0.3.1
 itsdangerous==1.1.0       # via flask
