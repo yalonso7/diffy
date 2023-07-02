@@ -79,7 +79,7 @@ pycodestyle==2.5.0        # via flake8
 pycparser==2.19           # via cffi
 pycryptodome==3.8.1       # via python-jose
 pyflakes==2.1.1           # via flake8
-pygments==2.3.1           # via sphinx
+pygments==2.15.0           # via sphinx
 pyparsing==2.4.0          # via packaging
 pyrsistent==0.14.11
 pytest-cov==2.6.1
