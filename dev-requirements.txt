@@ -19,7 +19,7 @@ boto3==1.9.131
 boto==2.49.0
 botocore==1.12.131
 bumpversion==0.5.3
-certifi==2019.3.9         # via requests
+certifi==2023.7.22         # via requests
 cffi==1.12.2              # via cryptography
 cfgv==1.6.0               # via pre-commit
 chardet==3.0.4            # via requests
