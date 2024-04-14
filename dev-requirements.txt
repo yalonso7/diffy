@@ -47,7 +47,7 @@ gitdb2==2.0.5             # via gitpython
 gitpython==2.1.11         # via bandit
 gunicorn==19.9.0
 identify==1.4.1           # via pre-commit
-idna==2.8                 # via requests
+idna==3.7                 # via requests
 imagesize==1.1.0          # via sphinx
 importlib-metadata==0.9   # via pre-commit
 inflection==0.3.1
