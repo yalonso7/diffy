@@ -45,7 +45,7 @@ flask==1.0.2
 future==0.17.1            # via python-jose
 gitdb2==2.0.5             # via gitpython
 gitpython==2.1.11         # via bandit
-gunicorn==19.9.0
+gunicorn==21.2.0
 identify==1.4.1           # via pre-commit
 idna==2.8                 # via requests
 imagesize==1.1.0          # via sphinx
