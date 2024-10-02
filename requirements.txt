@@ -15,7 +15,7 @@ docutils==0.14            # via botocore
 dogpile.cache==0.7.1      # via swag-client
 jmespath==0.9.4           # via boto3, botocore, swag-client
 jsondiff==1.1.2
-jsonpickle==1.1           # via deepdiff
+jsonpickle==3.3.0           # via deepdiff
 jsonschema==3.0.1
 marshmallow-jsonschema==0.5.0
 marshmallow==2.19.2       # via marshmallow-jsonschema, swag-client
