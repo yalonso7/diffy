@@ -55,7 +55,7 @@ itsdangerous==1.1.0
 jinja2==2.10.1
 jmespath==0.9.4
 jsondiff==1.1.2
-jsonpickle==1.1
+jsonpickle==3.3.0
 jsonschema==3.0.1
 markupsafe==1.1.1
 marshmallow-jsonschema==0.5.0
